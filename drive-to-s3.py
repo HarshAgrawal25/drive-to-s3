@@ -1,5 +1,5 @@
 
-import custom_func as cf
+
 from googleapiclient import discovery
 from google.oauth2 import service_account
 import json
